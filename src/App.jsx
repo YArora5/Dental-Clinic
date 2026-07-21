@@ -2,7 +2,7 @@ import "./index.css";
 
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import TrustBar from "./components/TrustBar/Trustbar";
+import TrustBar from "./components/TrustBar/TrustBar";
 import About from "./components/About/About";
 import Services from "./components/Services/Services";
 import WhyChooseUs from "./components/WhyChooseUs/WhyChooseUs";
