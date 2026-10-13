@@ -1,16 +1,36 @@
-# React + Vite
+# Luma Dental — Frontend Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A React-based dental-clinic website concept with responsive sections for services, doctors, FAQs, before/after imagery, testimonials, contact details, and an appointment form.
 
-Currently, two official plugins are available:
+## Tech stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- Vite
+- CSS
+- Framer Motion
+- Lucide React
 
-## React Compiler
+## Run locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the Oxlint configuration
+Run `npm run build` before sharing a release. The repository does not currently include a booking API or backend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Important demo limitations
+
+- The appointment form is a frontend interaction only. It validates required fields and explicitly tells the user that no booking is sent. It does not store or transmit patient information.
+- Clinic contact details, doctor profiles, testimonials, ratings, and patient imagery are sample/demo content. Replace them with verified, authorized information before presenting the site as a real clinic website.
+- Do not collect real patient or health information through this demo. A real booking workflow needs a secure backend, privacy notice, validation, spam protection, access control, and appropriate data retention.
+- The project currently has no automated test suite or CI workflow documented.
+
+## Suggested next steps
+
+1. Add component tests and accessibility checks.
+2. Connect the appointment form to a secure backend and show a server-confirmed booking status.
+3. Replace all sample claims and contact details with verified information or label them clearly as placeholders.
+4. Add screenshots, deployment link, and a concise project architecture section.
+
+**Status: frontend portfolio prototype, not a production healthcare system.**
