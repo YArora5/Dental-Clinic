@@ -2,15 +2,8 @@
 
 A modern, responsive dental clinic website designed to provide a clean, welcoming, and user-friendly online experience for patients. **Luma Dental** combines an elegant interface with smooth animations and dedicated sections to showcase dental services, doctors, patient testimonials, and appointment booking.
 
-<p align="center">
-  <a href="https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/">
-    <strong>🌐 View Live Website</strong>
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/YArora5/Dental-Clinic">
-    <strong>💻 View Source Code</strong>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/](https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/)">     \<strong>🌐 View Live Website\</strong>   \</a>   &nbsp \</p>
 
 ---
 
@@ -31,17 +24,17 @@ A modern, responsive dental clinic website designed to provide a clean, welcomin
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| React.js | Frontend UI development |
-| Vite | Development server and build tool |
-| JavaScript | Application functionality |
-| CSS3 | Styling and responsive layouts |
-| Framer Motion | Animations and transitions |
-| React Icons | Icon library |
-| Lucide React | Additional interface icons |
-| React Intersection Observer | Scroll-based interactions |
-| Vercel | Deployment and hosting |
+| Technology                  | Purpose                           |
+| --------------------------- | --------------------------------- |
+| React.js                    | Frontend UI development           |
+| Vite                        | Development server and build tool |
+| JavaScript                  | Application functionality         |
+| CSS3                        | Styling and responsive layouts    |
+| Framer Motion               | Animations and transitions        |
+| React Icons                 | Icon library                      |
+| Lucide React                | Additional interface icons        |
+| React Intersection Observer | Scroll-based interactions         |
+| Vercel                      | Deployment and hosting            |
 
 ## 📸 Website Sections
 
@@ -92,7 +85,7 @@ npm -v
 
 If Node.js is not installed, download it from:
 
-https://nodejs.org/
+[https://nodejs.org/](https://nodejs.org/)
 
 ### 3. Open the Project Folder
 
@@ -185,8 +178,8 @@ Dental-Clinic/
 
 The project is deployed using Vercel.
 
-**Live Website:**  
-https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/
+**Live Website:**
+[https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/](https://dental-clinic-l4gmwqm5u-yarora5s-projects.vercel.app/)
 
 ## 📝 Important Notes
 
@@ -210,8 +203,8 @@ If you have suggestions or find any issues, you are welcome to open an issue or 
 
 ---
 
-<p align="center">
-  <strong>Designed & Developed with ❤️ by Yugal Arora</strong>
-  <br/>
-  <sub>© 2026 Luma Dental. All rights reserved.</sub>
-</p>
+\<p align="center">
+&#x20; \<strong>Designed & Developed with ❤️ by Yugal Arora\</strong>
+&#x20; \<br/>
+&#x20; \<sub>© 2026 Luma Dental. All rights reserved.\</sub>
+\</p>
